@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstaClone</string>
+    <string name="db_link">https://instaclone-318fa.firebaseio.com/</string>
+    <string name="instagramlogo">instagramLogo</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="or_log_in">or , Log in</string>
+    <string name="share">share</string>
+    <string name="log_out">log out</string>
+</resources>
